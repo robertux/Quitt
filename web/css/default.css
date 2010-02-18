@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+
+body{
+	font-family: arial helvetica sans-serif;
+}
+
+.wrap{
+	background-color: #EFEFEF;
+	border: 8px solid #CFCFCF;
+}
+
+form p label{
+	display: block;
+	width: 130px;
+}
